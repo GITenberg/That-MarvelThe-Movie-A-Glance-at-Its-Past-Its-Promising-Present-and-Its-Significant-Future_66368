@@ -15,6 +15,9 @@ contributor:
     gutenberg_agent_id: '491'
     url: http://www.gutenberg.org/2009/agents/491
     wikipedia: https://en.wikipedia.org/wiki/Howard_Pyle
+covers:
+- cover_type: archival
+  image_path: 66368-h/images/cover.jpg
 creator:
   author:
     agent_name: Van Zile, Edward S. (Edward Sims)
@@ -27,6 +30,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/48193
     wikipedia: https://en.wikipedia.org/wiki/Edward_Sims_Van_Zile
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/66368#That-MarvelThe-Movie-A-Glance-at-Its-Past-Its-Promising-Present-and-Its-Significant-Future
 gutenberg_issued: '2021-09-23'
 identifiers:
   gutenberg: '66368'
